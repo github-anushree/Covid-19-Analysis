@@ -37,7 +37,7 @@ This repository features a [Power BI dashboard](https://app.powerbi.com/links/1E
 ---
 
 ## 📁 Files Included
-- `COVID19_Dashboard.pbix` – Power BI dashboard file
+- `PowerBICaseStudy2CovidAnalysis.pbix` – Power BI dashboard file
 - Screenshots of report visuals
 
 ---
